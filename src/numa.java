@@ -6,6 +6,7 @@ public class numa {
 
 		System.out.println("やあ");
 		System.out.println("はげ");
+		System.out.println("こｎ");
 	}
 
 }
