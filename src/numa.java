@@ -5,7 +5,7 @@ public class numa {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.println("やあ");
-		System.out.println("やああああああああああああああああああああああああああああああああ");
+		System.out.println("はげ");
 	}
 
 }
